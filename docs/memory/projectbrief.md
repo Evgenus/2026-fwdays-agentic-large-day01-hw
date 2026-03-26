@@ -32,7 +32,7 @@ The workspace is named **`excalidraw-monorepo`** in [`package.json`](../../packa
 
 ## Product summary
 
-- **Excalidraw** is a **canvas-based** diagramming tool with a sketch-like look.
+- **Excalidraw** is a **whiteboard-style**, **canvas-based** **collaborative drawing** tool with a sketch-like look—**multi-user** collaboration is integrated in **`excalidraw-app`**, while **`@excalidraw/excalidraw`** is the embeddable editor surface (details in the next bullets).
 - Consumers embed **`@excalidraw/excalidraw`** in a sized parent and load the published **CSS** (see package `exports` for `./index.css` in [`packages/excalidraw/package.json`](../../packages/excalidraw/package.json)).
 - **`excalidraw-app`** is the **official-style** full product shell built with **Vite** ([`excalidraw-app/package.json`](../../excalidraw-app/package.json)).
 

@@ -35,7 +35,7 @@ Technical architecture → [`docs/technical/architecture.md`](../technical/archi
 | `docs/memory/progress.md` | Present | This file. |
 | `docs/memory/decisionLog.md` | Present | Key decisions log (this wave). |
 | `docs/technical/dev-setup.md` | Present | Onboarding-oriented technical doc in repo. |
-| 3+ undocumented behaviors documented | **Not evidenced** | No dedicated `docs/` section grep-matched for that deliverable; treat as open if required for grading. |
+| 3+ undocumented behaviors documented | **Not evidenced** | Reproducible check: `rg -n -i 'undocumented behavior' docs/ --glob '*.md'` — hits [`progress.md`](./progress.md) (this row + suggested actions) and [`activeContext.md`](./activeContext.md) (workshop open question); no `docs/findings/` or `docs/technical/` note enumerating three concrete behaviors with file references. Open if grading requires that artifact. |
 
 ---
 

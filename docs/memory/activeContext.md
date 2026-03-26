@@ -4,13 +4,12 @@ Short-lived **handoff** for anyone continuing work in this workspace: current th
 
 ## Details
 
-For architecture → [`docs/technical/architecture.md`](../technical/architecture.md).
+Related references:
 
-For package boundaries → [`systemPatterns.md`](./systemPatterns.md).
-
-For onboarding and CI-aligned checks → [`docs/technical/dev-setup.md`](../technical/dev-setup.md).
-
-For term definitions used in handoff notes → [`docs/product/domain-glossary.md`](../product/domain-glossary.md).
+- **Architecture** — [`docs/technical/architecture.md`](../technical/architecture.md)
+- **Package boundaries** — [`systemPatterns.md`](./systemPatterns.md)
+- **Onboarding & CI** — [`docs/technical/dev-setup.md`](../technical/dev-setup.md)
+- **Domain glossary** — [`docs/product/domain-glossary.md`](../product/domain-glossary.md)
 
 ---
 
